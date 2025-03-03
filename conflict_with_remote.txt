@@ -1,1 +1,3 @@
+Keep both lines:
 Local - conflict with remote
+remote - conflict 
